@@ -40,7 +40,7 @@ class Person extends \yii\db\ActiveRecord
     {
         return [
             'id' => 'ID',
-            'lastname' => 'Lastname',
+            'lastname' => 'Фамилия',
             'firstname' => 'Firstname',
             'middlename' => 'Middlename',
         ];
